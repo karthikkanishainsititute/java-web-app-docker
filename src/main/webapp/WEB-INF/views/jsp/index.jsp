@@ -65,7 +65,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; CI/CD Pipeline</p>
 	</footer>
 </div>
 
